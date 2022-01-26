@@ -4,7 +4,7 @@
 In this challenge, I aggregated data for the 4th quarter of year 2021 found in the [Citi Bike Trip History Logs](https://s3.amazonaws.com/tripdata/index.html) via unions in Tableau to find a couple of interesting conclusions. I built some visualizations for each conclusion and added them to a couple of dashboards. In addition, I created a map ....
 
 ## Findings
-In this section, you will see what conclusions I've made regarding the [Citi Bike data] for the months of October, November, and December of the year 2021.
+In this section, you will see what conclusions I've made regarding the Citi Bike data for the months of [October](https://s3.amazonaws.com/tripdata/202110-citibike-tripdata.csv.zip), [November](https://s3.amazonaws.com/tripdata/202111-citibike-tripdata.csv.zip), and [December](https://s3.amazonaws.com/tripdata/202112-citibike-tripdata.csv.zip) of the year 2021.
 
 ### ***Number of Monthly Riders for Q4***
 1. I found that the number of riders decreased from October to December regardless of which type of membership the rider held. This is likely due to colder temperatures. Most riders would likely prefer to take a taxi than ride a bike in freezing temperatures.
